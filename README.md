@@ -29,7 +29,7 @@ Linux: openjdk-8-jre. Debian/Ubuntu users can install something like: default-jr
 
 Windows and others: Install Oracle´s Java JRE.
 
-To build the project yourself install Linux. Netbeans should be available in most current distributions.
+To build the project yourself install Netbeans. Netbeans should be available in most current distributions.
 
 Run program with: java -jar something.jar
 
