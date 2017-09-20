@@ -34,3 +34,5 @@ To build the project yourself install Linux. Netbeans should be available in mos
 Run program with: java -jar something.jar
 
 This program is tested with Windows 10 and PostX Gnu/Linux(Debian family). You should be able to run the .jar files easily without compiling the project.
+_______________________
+Original post is at:http://www.techtimejourney.net/xclock-java-arrives/
