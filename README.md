@@ -9,7 +9,7 @@ _______________
 Two versions:
 
 XClock.jar has frames use this with Windows systems or whenever you want to have frames.
-XClock_u.jar is the frameless version. You can use this on Linux etc. Tip. Press ALT to move the frameless window around in Linux.
+XClock_u.jar is the frameless version. You can use this on Linux etc. Tip. Press/hold ALT to move the frameless window around in Linux.
 
 _______
 
