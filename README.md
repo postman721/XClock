@@ -1,4 +1,4 @@
-# XClock-Java
+# XClock(Java)
 
 ![test](https://user-images.githubusercontent.com/29865797/30662433-c09dbea2-9e4f-11e7-947f-76aacd5a957c.jpg)
 
