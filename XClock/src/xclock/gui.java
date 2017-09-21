@@ -31,36 +31,36 @@ public class gui extends javax.swing.JFrame {
                     String real_day=" " + number;
                     
                     //Weekdays && Day numbers functions-
-                    if (day==0){
+                    if (day==1){
                         String days="Sunday  ";
                         Date.setText(days+real_day );
 
                     }
-                    else if (day==1){
+                    else if (day==2){
                         String days="Monday  ";
                         Date.setText(days+real_day);
 
                     }
-                    else if (day==2){
+                    else if (day==3){
                         String days="Tuesday  ";
                         Date.setText(days+real_day);
                     }
-                    else if (day==3){
+                    else if (day==4){
                         String days="Wednesday  ";
                         Date.setText(days+real_day);
 
                     }
-                    else if (day==4){
+                    else if (day==5){
                         String days="Thursday"  ;
                         Date.setText(days+real_day);
 
                     } 
-                    else if (day==5){
+                    else if (day==6){
                         String days="Friday  ";
                         Date.setText(days+real_day);
 
                     }
-                    else if (day==6){
+                    else if (day==7){
                         String days="Saturday  ";
                         Date.setText(days+real_day);
 
@@ -208,7 +208,6 @@ public class gui extends javax.swing.JFrame {
         Months_go = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setUndecorated(true);
 
         Date.setFont(new java.awt.Font("Agency FB", 1, 36)); // NOI18N
         Date.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
